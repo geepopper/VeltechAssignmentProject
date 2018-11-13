@@ -1,0 +1,17 @@
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\ValtechTestProject.dll.config
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\ValtechTestProject.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\ValtechTestProject.pdb
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\System.ValueTuple.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\ValtechAutoFrameWork.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\WebDriver.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\WebDriver.Support.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\ValtechAutoFrameWork.pdb
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\WebDriver.xml
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\bin\Debug\WebDriver.Support.xml
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\obj\Debug\ValtechTestProject.csprojResolveAssemblyReference.cache
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\obj\Debug\ValtechTestProject.dll
+C:\Users\Gerald\WorkStation\ValtechAutoFrameWork\ValtechTestProject\obj\Debug\ValtechTestProject.pdb
